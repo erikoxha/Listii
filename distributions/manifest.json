@@ -1,0 +1,47 @@
+{
+  "filename": "Listii-macOS-arm64.zip",
+  "bytes": 56937071,
+  "sha256": "7303f06f4b60f2023d2d8468622087ce02380f5b1ae6af8febbd0d888228f39f",
+  "parts": [
+    {
+      "filename": "Listii-macOS-arm64.zip.part01",
+      "bytes": 4194300,
+      "sha256": "fc4a6bacacfc808f4a63e32222c9db3dcebb6023edc4731147d40dc52ac1b7fd"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part02",
+      "bytes": 8388606,
+      "sha256": "90d47128ae1146f2f9924c6a8f03dd5c0259e2ef671dbc81128dd2166d5d8833"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part03",
+      "bytes": 8388606,
+      "sha256": "14cdf0b812f5aa9ef80b6c84cf034a5a00b883187cf20bcab6690a26adb6c876"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part04",
+      "bytes": 8388606,
+      "sha256": "ebadb671bf1ad4e9c66daf74b80c218afc1f95d81754c9163176d12d60d8cdc0"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part05",
+      "bytes": 8388606,
+      "sha256": "ea9fe772096b0f56404b36f09d0502d8b4e07834a3ffcc0100116b33512f4a1e"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part06",
+      "bytes": 8388606,
+      "sha256": "754f9f473139c93809ece0c07113046fdce6e4b1951cfae23c4dd515027f191f"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part07",
+      "bytes": 8388606,
+      "sha256": "11363519cee7ded076dbc439900b735db0f5cca1de100302a06e6b342ced789c"
+    },
+    {
+      "filename": "Listii-macOS-arm64.zip.part08",
+      "bytes": 2411135,
+      "sha256": "7871bb767fe671447c1ffb10d0b31fc6613f2d5aa54f01fce13af35e9c3c56d9"
+    }
+  ]
+}
