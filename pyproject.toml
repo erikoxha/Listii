@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "listii"
+version = "1.0.0"
+description = "A desktop playlist exporter for audio you are permitted to download."
+requires-python = ">=3.9"
+dependencies = ["PySide6>=6.7,<7", "requests>=2.32,<3", "mutagen>=1.47,<2", "keyring>=25,<26"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+build = ["pyinstaller>=6,<7", "setuptools>=75,<81"]
+
+[project.scripts]
+listii = "listii.app:main"
+
+[tool.setuptools.packages.find]
+include = ["listii*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.package-data]
+listii = ["assets/*.png", "assets/*.icns"]
